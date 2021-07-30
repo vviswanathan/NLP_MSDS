@@ -1,0 +1,524 @@
+1593407180509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofile8p6OhY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593407182304	Marionette	INFO	Listening on port 64379
+1593407182521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593407202216	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[7]</e</a.prototype.getLoggedInStatus@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11849
+e@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11248
+[17]</</b.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:6250
+[17]</</b.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:1429
+[17]</</b.imdb.WatchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:574
+[17]</</a.fn.watchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:8867
+jQueryOnReady/<@https://www.imdb.com/search/title/?title_type=feature&genres=comedy&explore=genres:6280:22
+l@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25223
+f/</m<@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25527
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1593407718947	Marionette	INFO	Stopped listening on port 64379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593407761885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofilejyqWc3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593407763801	Marionette	INFO	Listening on port 64673
+1593407763908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593407775699	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[7]</e</a.prototype.getLoggedInStatus@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11849
+e@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11248
+[17]</</b.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:6250
+[17]</</b.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:1429
+[17]</</b.imdb.WatchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:574
+[17]</</a.fn.watchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:8867
+jQueryOnReady/<@https://www.imdb.com/search/title/?title_type=feature&genres=comedy&explore=genres:6280:22
+l@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25223
+f/</m<@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25527
+1593409943765	Marionette	INFO	Stopped listening on port 64673
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593407815426	Marionette	INFO	Listening on port 64839
+1593407815780	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20444, MediaDecoderStateMachine #1] WARNING: Decoder=2355c5a0c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 20444, MediaDecoderStateMachine #1] WARNING: Decoder=2355c5a0c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript: window.frameElement.getAttribute("data-html-source");'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 659"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:659:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1955:69
+addAllSources@resource://devtools/server/actors/thread.js:1339:14
+onSources@resource://devtools/server/actors/thread.js:1345:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 659, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 659: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript: window.frameElement.getAttribute("data-html-source");'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1C0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1593409723956	Marionette	INFO	Stopped listening on port 64839
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+609885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593408627511	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593410119425	Marionette	INFO	Stopped listening on port 49258
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593409692848	Marionette	INFO	Listening on port 49932
+1593409692955	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16204, MediaDecoderStateMachine #1] WARNING: Decoder=22635b3a800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 16204, MediaDecoderStateMachine #1] WARNING: Decoder=22635b3a800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1593409824290	Marionette	INFO	Stopped listening on port 49932
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593409738233	Marionette	INFO	Listening on port 50106
+1593409738267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593409764034	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[7]</e</a.prototype.getLoggedInStatus@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11849
+e@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11248
+[17]</</b.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:6250
+[17]</</b.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:1429
+[17]</</b.imdb.WatchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:574
+[17]</</a.fn.watchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:8867
+jQueryOnReady/<@https://www.imdb.com/search/title/?title_type=feature&genres=comedy&explore=genres:6286:22
+l@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25223
+f/</m<@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593409822081	Marionette	INFO	Stopped listening on port 50106
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+istening on port 50255
+1593409789143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593409814099	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[7]</e</a.prototype.getLoggedInStatus@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11849
+e@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11248
+[17]</</b.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:6250
+[17]</</b.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:1429
+[17]</</b.imdb.WatchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:574
+[17]</</a.fn.watchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:8867
+jQueryOnReady/<@https://www.imdb.com/search/title/?title_type=feature&genres=comedy&explore=genres:6280:22
+l@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25223
+f/</m<@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25527
+[Parent 7092, Gecko_IOThread] WARNING: pipe error: 995: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 469
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1593409819815	Marionette	INFO	Stopped listening on port 50255
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593409940731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofilemE8KBm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593409942775	Marionette	INFO	Listening on port 50523
+1593409942842	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21712, MediaDecoderStateMachine #1] WARNING: Decoder=1d089c84c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 21712, MediaDecoderStateMachine #1] WARNING: Decoder=1d089c84c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1593410084040	Marionette	INFO	Stopped listening on port 50523
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593410400850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofiled5ZHb9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593410404449	Marionette	INFO	Listening on port 50929
+1593410404467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593410418933	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[7]</e</a.prototype.getLoggedInStatus@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11849
+e@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11248
+[17]</</b.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:6250
+[17]</</b.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:1429
+[17]</</b.imdb.WatchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:574
+[17]</</a.fn.watchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:8867
+jQueryOnReady/<@https://www.imdb.com/search/title/?title_type=feature&genres=action&explore=genres:5753:22
+l@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25223
+f/</m<@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25527
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1593410439903	Marionette	INFO	Stopped listening on port 50929
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ectory.
+1593410436070	Marionette	INFO	Listening on port 51122
+1593410436354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593410456837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[7]</e</a.prototype.getLoggedInStatus@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11849
+e@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11248
+[17]</</b.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:6250
+[17]</</b.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:1429
+[17]</</b.imdb.WatchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:574
+[17]</</a.fn.watchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:8867
+jQueryOnReady/<@https://www.imdb.com/search/title/?title_type=feature&genres=action&explore=genres:5753:22
+l@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25223
+f/</m<@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25527
+1593410494113	Marionette	INFO	Stopped listening on port 51122
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofilegCvclL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593410485125	Marionette	INFO	Listening on port 51337
+1593410485379	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13216, MediaDecoderStateMachine #1] WARNING: Decoder=17927cd3800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 13216, MediaDecoderStateMachine #1] WARNING: Decoder=17927cd3800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1593410827015	Marionette	INFO	Stopped listening on port 51337
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593410647629	Marionette	INFO	Listening on port 51525
+1593410648003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593410824267	Marionette	INFO	Stopped listening on port 51525
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593410714171	Marionette	INFO	Listening on port 51585
+1593410714502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593410821155	Marionette	INFO	Stopped listening on port 51585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593410816862	Marionette	INFO	Listening on port 51646
+1593410817214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593410932392	Marionette	INFO	Stopped listening on port 51646
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593410936853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofilea99M0x"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593410938890	Marionette	INFO	Listening on port 51873
+1593410938970	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593410971990	Marionette	INFO	Stopped listening on port 51873
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+istening on port 52054
+1593410965337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593411040779	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[62]</e</a.prototype.getLoggedInStatus@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:3:20447
+e@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:3:19842
+[313]</</b.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:47:28303
+[313]</</b.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:47:23482
+[313]</</b.imdb.WatchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:47:22627
+[313]</</a.fn.watchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:47:30920
+[9]</</<@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:1:7222
+l@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25223
+f/</m<@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25527
+JavaScript error: https://tag.placelocal.com/ad/iframe?campaignid=f40f21fa-8c06-470d-882d-385c060d5e81&creativesize=300x250&party=4PAS&dsp=AMZ&adserver=DCM&pltracker=467&cachebuster=3669826555&placementid=273824086&auctionid=&targetids=&format=html&click=https://adclick.g.doubleclick.net/pcs/click%3Fxai%3DAKAOjsuzmcyr2rZzf81KSkebHN_nCjkilsSJcj3e1fYlVIv4gUDkFAmNWA9lO6g0V79I8l0EuPOsqoXVFBmEkl0vGnfKv5hbi9qs5ROPCQrJXr9tbYVhxsjBncM%26sig%3DCg0ArKJSzLNjzoY975MHEAE%26urlfix%3D1%26adurl%3Dhttps://aax-us-east.amazon-adsystem.com/x/c/QhI08BMvOci4PrgHWb4P-FIAAAFy_rN4EQEAAADKAZbS-Bw/, line 44: ReferenceError: bootstrap is not defined
+JavaScript error: https://tag.placelocal.com/ad/iframe?campaignid=f40f21fa-8c06-470d-882d-385c060d5e81&creativesize=300x250&party=4PAS&dsp=AMZ&adserver=DCM&pltracker=467&cachebuster=3669826555&placementid=273824086&auctionid=&targetids=&format=html&click=https://adclick.g.doubleclick.net/pcs/click%3Fxai%3DAKAOjsuzmcyr2rZzf81KSkebHN_nCjkilsSJcj3e1fYlVIv4gUDkFAmNWA9lO6g0V79I8l0EuPOsqoXVFBmEkl0vGnfKv5hbi9qs5ROPCQrJXr9tbYVhxsjBncM%26sig%3DCg0ArKJSzLNjzoY975MHEAE%26urlfix%3D1%26adurl%3Dhttps://aax-us-east.amazon-adsystem.com/x/c/QhI08BMvOci4PrgHWb4P-FIAAAFy_rN4EQEAAADKAZbS-Bw/, line 57: ReferenceError: PaperG_V3_Counter is not defined
+1593474403406	Marionette	INFO	Stopped listening on port 52054
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593483091395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofileXfnkHb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593483094671	Marionette	INFO	Listening on port 52288
+1593483095025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593483253320	Marionette	INFO	Stopped listening on port 52288
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593483244785	Marionette	INFO	Listening on port 52683
+1593483245009	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593484154683	Marionette	INFO	Stopped listening on port 52683
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593534012008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofile1QBt44"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593534014117	Marionette	INFO	Listening on port 65308
+1593534014123	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21412, MediaDecoderStateMachine #1] WARNING: Decoder=1aec1fee800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 21412, MediaDecoderStateMachine #1] WARNING: Decoder=1aec1fee800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1593554039024	Marionette	INFO	Stopped listening on port 65308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593557713603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofileS3VB26"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593557715322	Marionette	INFO	Listening on port 61777
+1593557715615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1593557861854	Marionette	INFO	Stopped listening on port 61777
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593557841086	Marionette	INFO	Listening on port 62011
+1593557841319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593558070032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofileuOVn6l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593558071808	Marionette	INFO	Listening on port 62294
+1593558072041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593558078984	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[7]</e</a.prototype.getLoggedInStatus@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11849
+e@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11248
+[17]</</b.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:6250
+[17]</</b.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:1429
+[17]</</b.imdb.WatchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:574
+[17]</</a.fn.watchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:8867
+jQueryOnReady/<@https://www.imdb.com/search/title/?title_type=feature&genres=romance&explore=genres:6182:22
+l@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25223
+f/</m<@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25527
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, 1593558126367	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[62]</e</a.prototype.getLoggedInStatus@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:3:20447
+e@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:3:19842
+[313]</</b.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:47:28303
+[313]</</b.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:47:23482
+[313]</</b.imdb.WatchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:47:22627
+[313]</</a.fn.watchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:47:30920
+[9]</</<@https://m.media-amazon.com/images/G/01/imdb/js/collections/title-4265466318._CB427941188_.js:1:7222
+l@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25223
+f/</m<@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25527
+[Child 17740, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 17740, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1593558373607	Marionette	INFO	Stopped listening on port 62475
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593558377390	Marionette	INFO	Stopped listening on port 62722
+
+###!!! [Child][RunMessage] Error: Channel closing: tooJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593558378460	Marionette	INFO	Listening on port 62976
+1593558378911	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10488, MediaDecoderStateMachine #1] WARNING: Decoder=11c275a2800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 359
+[Child 10488, MediaDecoderStateMachine #1] WARNING: Decoder=11c275a2800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593558500462	Marionette	INFO	Stopped listening on port 62976
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595382575971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofilellWrb3"
+1595382579310	Marionette	INFO	Listening on port 64179
+1595382579596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tag.placelocal.com/ad/iframe?campaignid=bcd7cb51-d677-4607-a5ad-3a921351037d&creativesize=300x250&party=4PAS&dsp=AMZ&adserver=DCM&pltracker=465&cachebuster=5021274&placementid=262685372&auctionid=1%2C553%2C085%2C313%2C216%2C062%2C849&targetids=2302575000001&format=html&click=https://adclick.g.doubleclick.net/pcs/click%3Fxai%3DAKAOjssmQDFZM_Wltiu1jywVXdmaiCe6reSAtMwGe1S58MRyxXib4fT05C9BCc4Wq-T-pN9WIDJYfiLOcb9vMekJzlEBjgG3vhGJwIPK96Wh2TRYC14iEu2-A3vJwZEanQyIi85eL6Z9FaAD2Gd23zqZAdzamfWpANF4ch--yn4z5V1NdbPNzkX8YdVB1WR5WPd1%26sig%3DCg0ArKJSzHjDo-9ltEQHEAE%26urlfix%3D1%26adurl%3Dhttps://aax-us-east.amazon-adsystem.com/x/c/QrO_p0U--UmSZzmekcNCYSwAAAFzdDZhOQEAAADKAUTRSkM/, line 32: TypeError: window.adacusAd is undefined
+1595382598209	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[Child 16824, MediaDecoderStateMachine #1] WARNING: Decoder=217bc333c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 16824, MediaDecoderStateMachine #1] WARNING: Decoder=217bc333c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1595382639307	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1595382642342	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1595382646808	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[Child 16824, MediaDecoderStateMachine #1] WARNING: Decoder=217b508c800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 16824, MediaDecoderStateMachine #1] WARNING: Decoder=217b508c800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595383248949	Marionette	INFO	Stopped listening on port 64179
+1595383405337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofilewklBF4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595383410063	Marionette	INFO	Listening on port 64765
+1595383410557	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595383584826	Marionette	INFO	Stopped listening on port 64765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Chan1595383585590	Marionette	INFO	Listening on port 64976
+1595383585689	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595383593571	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[7]</e</a.prototype.getLoggedInStatus@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11849
+e@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:1:11248
+[17]</</b.imdb.WatchlistRibbon.prototype._checkWatchlist@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:6250
+[17]</</b.imdb.WatchlistRibbon.prototype._init@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:1429
+[17]</</b.imdb.WatchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:574
+[17]</</a.fn.watchlistRibbon@https://m.media-amazon.com/images/G/01/imdb/js/collections/other-1157937439._CB423019938_.js:2:8867
+jQueryOnReady/<@https://www.imdb.com/search/title/?title_type=feature&genres=comedy&explore=genres:6254:22
+l@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25223
+f/</m<@https://m.media-amazon.com/images/G/01/imdb/js/collections/common-2354271187._CB427941191_.js:94:25527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595383609182	Marionette	INFO	Stopped listening on port 64976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595383615563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vivek\\AppData\\Local\\Temp\\rust_mozprofileTo1jHm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595383619104	Marionette	INFO	Listening on port 65112
+1595383619185	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 53084, MediaDecoderStateMachine #1] WARNING: Decoder=296350edc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 53084, MediaDecoderStateMachine #1] WARNING: Decoder=296350edc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1595383657841	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[Child 53084, MediaDecoderStateMachine #1] WARNING: Decoder=2963a881800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 53084, MediaDecoderStateMachine #1] WARNING: Decoder=2963a881800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595384854419	Marionette	INFO	Stopped listening on port 65112
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
